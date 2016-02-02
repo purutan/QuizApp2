@@ -52,6 +52,7 @@ BOOL answerFlag;
             // answerFlag = 1 ○が正解
             // answerFlag = 0 ×が正解
             
+            
         case 1:
             quizText = @"問１\n最近話題の駄菓子がテーマの漫画・アニメ作品と言えば『だがしかし』である。";
             _textView.text = quizText;
